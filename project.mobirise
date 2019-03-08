@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-07_1744",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1696,7 +1696,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "WINNWER OF THIS MONTH",
+                "title": "WINNER OF THIS MONTH",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Winner of this month in the skill camp programme",
